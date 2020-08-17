@@ -1,0 +1,3 @@
+﻿  6306021622100-area.cpp
+C:\Users\DRAGON\source\repos\6306021622100-area\Project4\6306021622100-area.cpp(48,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Project4.vcxproj -> C:\Users\DRAGON\source\repos\6306021622100-area\Debug\Project4.exe
